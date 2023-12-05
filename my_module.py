@@ -1,4 +1,13 @@
 def add_numbers(a, b):
+    """Add two numbers together
+
+    Args:
+        a (_type_): _description_
+        b (_type_): _description_
+
+    Returns:
+        _type_: _description_
+    """
     return a + b
 
 
